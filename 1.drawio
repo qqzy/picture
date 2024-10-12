@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xTj4nwzHAxxfGgtlaXRp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="665" width="830" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="5cXL--mGGgQPPizYzX_k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4C4C4;" parent="1" vertex="1">
-          <mxGeometry y="800" width="1060" height="520" as="geometry" />
+          <mxGeometry x="-20" y="800" width="1080" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5cXL--mGGgQPPizYzX_k-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B7D5FF;" parent="1" vertex="1">
           <mxGeometry x="330" y="890" width="710" height="410" as="geometry" />
@@ -113,7 +116,7 @@
           <mxGeometry x="1230" y="965.81" width="670" height="354.19" as="geometry" />
         </mxCell>
         <mxCell id="5cXL--mGGgQPPizYzX_k-11" value="&lt;div&gt;&quot;object_1&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;animation&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Anim_1&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;duration&quot;: 0.6666666865348816,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;action_type&quot;: &quot;move&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;description&quot;: &quot;Avatar&quot;, &quot;scene_type&quot;: &quot;ground&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;speed&quot;: &quot;moderate&quot;, &quot;size&quot;: &quot;large&quot;,&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="970" width="620" height="340" as="geometry" />
+          <mxGeometry x="1250" y="972.9" width="620" height="340" as="geometry" />
         </mxCell>
         <mxCell id="xTj4nwzHAxxfGgtlaXRp-1" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;hdri_id&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;scene_type&quot;: &quot;sky&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;descriptions&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;A blindingly bright sky&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;A glaring sunlit sky&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;A dazzling sunlit sky&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;A sky with harsh sunlight&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;sky&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1260" y="720" width="510" height="170" as="geometry" />
